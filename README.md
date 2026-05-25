@@ -8,21 +8,6 @@ Xây dựng một mini system quản lý Phiếu đề nghị đặt dịch vụ
 - Xem danh sách tất cả các phiếu đã tạo
 - Xem chi tiết từng phiếu
 
-### Thông tin phiếu đề nghị
-
-| Trường | Mô tả | Bắt buộc |
-|--------|-------|----------|
-| Tên tour | Tên gọi của tour | Yes |
-| Ngày khởi hành | Ngày bắt đầu tour | Yes |
-| Người phụ trách | Người phụ trách tour | No |
-| Loại tour | FIT / GIT / MICE | Yes |
-| Số lượng khách | Số lượng khách tham gia | Yes |
-
-### Danh sách dịch vụ
-
-Mỗi dịch vụ bao gồm: Loại dịch vụ, Tên dịch vụ, Nhà cung cấp, Số lượng, Đơn giá, Ghi chú.
-
----
 
 ## 2. Giả định nghiệp vụ
 
